@@ -1,0 +1,7 @@
+# setup headscale
+
+## install headscale
+
+```
+
+```
